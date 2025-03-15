@@ -95,7 +95,16 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
 
 ![image](https://github.com/user-attachments/assets/01716bbd-dcc5-4c97-b4a2-18e7b7c5567b)
 
+![image](https://github.com/user-attachments/assets/723a9495-063b-4bb8-b0d7-9135e38308a3)
+![image](https://github.com/user-attachments/assets/2ec058d2-2106-4963-90d0-9e83ffcfb962)
 
+![image](https://github.com/user-attachments/assets/19185ed2-a520-477e-9ce7-0f7ee00c6de7)
+
+![image](https://github.com/user-attachments/assets/67294dc1-dac7-48c5-9495-1523c2620808)
+
+
+#### Reading: NoSQL Database Deployment Options
+![image](https://github.com/user-attachments/assets/2cb53dd1-c760-440a-86d2-cf8f78748720)
 
 
 
