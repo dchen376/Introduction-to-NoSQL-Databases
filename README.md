@@ -302,7 +302,106 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
 ![image](https://github.com/user-attachments/assets/11b3b18e-338e-4a48-ae5b-d04e75711c40)
 
 
-### Cassandra Bacis 
+### Cassandra Basics
+![image](https://github.com/user-attachments/assets/d1cdb3ba-c891-43ed-8f3f-df7126043be1)
+
+#### Apache Cassandra Overview
+![image](https://github.com/user-attachments/assets/99260cf4-5afa-47da-a420-d1e510ce1831)
+![image](https://github.com/user-attachments/assets/253fe8c1-6318-4820-9d84-051e1beb3ce1)
+![image](https://github.com/user-attachments/assets/2bd11405-cf8d-4334-9959-c2429d86e8fd)
+![image](https://github.com/user-attachments/assets/75104101-0f94-4364-93b1-113cdd599175) * peer to peer
+![image](https://github.com/user-attachments/assets/83181882-a262-4c4d-a53c-877a1802af61)
+
+![image](https://github.com/user-attachments/assets/26e9050f-54bb-4419-8a3a-3b299cef37f4)
+
+![image](https://github.com/user-attachments/assets/4c6cfae6-7ae7-485d-bf46-bd1b1be986dc)
+
+![image](https://github.com/user-attachments/assets/e5ed8c33-665a-48d1-922f-947734e8a7ff)
+
+![image](https://github.com/user-attachments/assets/83b7ed2f-6f8a-4395-bfd0-6049098e965e)
+
+
+#### Key Features of Apache Cassandra
+![image](https://github.com/user-attachments/assets/2037de59-8fe3-420c-8838-c9edc8ca1c0d)
+![image](https://github.com/user-attachments/assets/4fd52dc4-fd00-4f90-a1a9-bf043f2f77f0)
+![image](https://github.com/user-attachments/assets/cd0c7e14-d78e-4ee3-8021-1c26f0438833)
+![image](https://github.com/user-attachments/assets/06e7aff3-c6df-46a1-8cad-5296c9b4b08d) *
+
+![image](https://github.com/user-attachments/assets/6773e3e5-11ee-4e66-b81b-a0e8c7875ac9)
+
+![image](https://github.com/user-attachments/assets/e0a4c96c-eeda-436d-bd37-fa795789b8dd)
+
+![image](https://github.com/user-attachments/assets/8ba9210e-be53-448c-a1ab-9d2f67876a04)
+
+![image](https://github.com/user-attachments/assets/e1367fd7-fee9-4984-ba76-aa7f1a0e17f8)
+
+![image](https://github.com/user-attachments/assets/856b23c9-8e7c-43f6-ac24-ccdad4e449e8)
+
+![image](https://github.com/user-attachments/assets/a1307cae-dc6c-4289-ad73-3a313f247ac8)
+![image](https://github.com/user-attachments/assets/028e3d6f-6142-44f2-8f2d-296a2299957d)
+
+- CQL *
+ ![image](https://github.com/user-attachments/assets/19822040-aae6-4efe-a8e1-302cde5d978b)
+
+![image](https://github.com/user-attachments/assets/d3248c00-f19e-47c8-8aa2-893bf99bd52f)
+
+
+#### Apache Cassandra Data Model: Part 1
+ ![image](https://github.com/user-attachments/assets/433e4b08-5895-4319-92bd-31b626df1689)
+ 
+![image](https://github.com/user-attachments/assets/e8337059-8c9f-49ef-981b-fa9dccf75f43)
+![image](https://github.com/user-attachments/assets/339146d8-ef83-44cd-9675-c340e260a885) * partition and clustering key
+
+![image](https://github.com/user-attachments/assets/990eca58-2fe6-43ff-bf37-790d65913576)
+
+![image](https://github.com/user-attachments/assets/d91ba5e8-c718-4bc8-b88a-f4064891a21d)
+
+![image](https://github.com/user-attachments/assets/4137b157-be5b-4c6f-93fe-3180ee058971) *
+![image](https://github.com/user-attachments/assets/68134b45-6052-4dbf-952e-c54aa41104ed)
+
+![image](https://github.com/user-attachments/assets/aa7b6949-878c-4030-bab2-2a4876a67994)
+
+
+#### Apache Cassandra Data Model: Part 2
+![image](https://github.com/user-attachments/assets/cb23d8f2-c1fa-4e63-9255-84c3faccf458)
+![image](https://github.com/user-attachments/assets/6babd43f-bd73-4ac9-ad57-50390e21456e)
+![image](https://github.com/user-attachments/assets/98c3ee13-0b3d-4c18-a908-ad842da6eb46) *improves read performance
+
+![image](https://github.com/user-attachments/assets/d9fac40c-c0d1-473f-84c1-8f63049ea671)
+
+![image](https://github.com/user-attachments/assets/97959e2a-bdb7-4a79-91bd-87bdb399f86c)
+
+![image](https://github.com/user-attachments/assets/5ca288ff-e0b3-41f5-84a9-b931a4567831)
+
+![image](https://github.com/user-attachments/assets/33f186a9-b45c-496d-8570-70372ad3d49d)
+
+#### Introduction to Cassandra Query Language Shell (cqlsh)
+![image](https://github.com/user-attachments/assets/b16f708b-c284-4fbd-b38e-c89b3fcbd715) *cqlShell
+
+![image](https://github.com/user-attachments/assets/53e48263-bbe5-48bf-aee5-1ec388042bef)
+![image](https://github.com/user-attachments/assets/b43719b1-4bce-4e24-bf96-1ec9d88f3a21)
+
+![image](https://github.com/user-attachments/assets/272c5659-b7fb-4f2d-891f-e758d6e04d07)
+![image](https://github.com/user-attachments/assets/3f211fd4-f5aa-4854-a261-2058db916c76)
+![image](https://github.com/user-attachments/assets/898cd915-f894-439a-b845-7822e2349e53)
+
+![image](https://github.com/user-attachments/assets/4aeeb293-bbf3-4000-98c5-9ff10d4245d2)
+
+![image](https://github.com/user-attachments/assets/5079c278-b574-4f4d-8f54-34239894f7ed)
+![image](https://github.com/user-attachments/assets/4c8a2a6d-5c67-44f9-b318-ae88dab215ff)
+![image](https://github.com/user-attachments/assets/a49b0706-cbb1-49dc-afa6-f069e2862546)
+
+![image](https://github.com/user-attachments/assets/6d5c4847-242e-4f60-9c6b-1b160bdc5b81)
+
+![image](https://github.com/user-attachments/assets/92c51670-8894-49db-8ede-58a60bc23004)
+
+
+
+
+
+
+
+
 
 
 ### Working with Cassandra
