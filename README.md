@@ -109,19 +109,154 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
 
 
 
-
-
-
-
-
-
 ### Working with Distributed Data
+
+#### ACID versus BASE Operations
+![image](https://github.com/user-attachments/assets/e00ee0da-0b77-4976-bb1e-f41b8b5e4384)
+
+![image](https://github.com/user-attachments/assets/9b4eb711-d1a5-4ad4-9c47-600efdafcd96) *
+
+- ACID
+![image](https://github.com/user-attachments/assets/e3f5b79c-155c-46f1-92fc-5002baad7655)
+
+![image](https://github.com/user-attachments/assets/cdea9feb-8eba-437a-8565-97b02731990a)
+
+- BASE
+  ![image](https://github.com/user-attachments/assets/27a0a04a-3b4d-4dc7-968c-1e448099a3cd)
+  ![image](https://github.com/user-attachments/assets/3da319b9-1e6d-4982-adba-ada953252025)
+  ![image](https://github.com/user-attachments/assets/63642c3c-593c-4a3d-af63-392d9995b41a)
+
+
+![image](https://github.com/user-attachments/assets/87813006-c386-49cb-a4d3-9e52118ae738) * consistency vs avaliability
+
+#### Distributed Databases
+![image](https://github.com/user-attachments/assets/a0d9a6f4-d950-4f74-8d65-65a83160eba1)
+
+- distributed systems *
+  ![image](https://github.com/user-attachments/assets/5a7aaad6-267e-4a70-b7b8-e856dcc2f0af)
+
+  - fragmenting ( aka. partitioning or sharding ) *
+    ![image](https://github.com/user-attachments/assets/52ffdd72-0240-47a7-8065-e131e411030f)
+![image](https://github.com/user-attachments/assets/d07768c5-8a24-4a42-aa0e-15d1eaecfbfb)
+
+  - replication *
+    ![image](https://github.com/user-attachments/assets/dabe2d63-413a-4e62-9e89-9cfdc1aae8f0)
+
+![image](https://github.com/user-attachments/assets/ebc819e3-db0b-4969-8617-dbc93be4f759)
+
+![image](https://github.com/user-attachments/assets/b0a66003-b65c-449f-8c64-8ae33369cf9e) * concurrency control
+
+![image](https://github.com/user-attachments/assets/a5943456-7833-438e-acb0-9e13d717149b)
+
+
+
+#### Reading: MongoDB Design Patterns
+![image](https://github.com/user-attachments/assets/f22e1c28-759c-4b07-8cc2-13d948f8e2d6)
+![image](https://github.com/user-attachments/assets/f44211a8-fbd5-4f41-b239-3dd01690a8a1)
+
+
+#### CAP Theorem
+![image](https://github.com/user-attachments/assets/f0a2d68b-b395-42de-bab3-98431b5a7501)
+
+![image](https://github.com/user-attachments/assets/11c069c3-b6ff-4e8f-b014-b7139649c2a5)
+
+![image](https://github.com/user-attachments/assets/7bf1e12d-3379-4b2c-b777-bd4f024be3b0) *
+![image](https://github.com/user-attachments/assets/157d751a-2521-40e9-a79f-24d77963326d)
+
+![image](https://github.com/user-attachments/assets/9b366af4-2230-4891-adc9-2d721636ce96) *
+
+![image](https://github.com/user-attachments/assets/80931c09-5295-45db-b59b-ae6966f11572) *
+
+
+![image](https://github.com/user-attachments/assets/ab8fe037-0997-4957-914f-21aad777ebf0)
+
+
+#### Challenges in Migrating from RDBMS to NoSQL Databases
+![image](https://github.com/user-attachments/assets/e05e884b-5457-4dee-aead-6571828b667d)
+
+![image](https://github.com/user-attachments/assets/a0a39e79-4409-4380-b27c-d98a12e359d6)
+
+![image](https://github.com/user-attachments/assets/e797e1aa-0a46-40ba-acee-b1d080b329ae) * data-drive , query-driven, denormalized data
+
+![image](https://github.com/user-attachments/assets/0ad79b14-2c5c-47fb-922a-66e9f16972a1)
+
+![image](https://github.com/user-attachments/assets/81565c4c-fa72-4d63-9210-e62f2a99db5c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## M2 - Introducing MongoDB: An Open-Source NoSQL Database
 ![image](https://github.com/user-attachments/assets/035aa882-d914-4dda-944b-6a2a41f1155b)
 
 ### Basics of MongoDB
+
+#### Overview of MongoDB
+![image](https://github.com/user-attachments/assets/9710ff8b-b7a1-4406-b406-5014e1835aec)
+![image](https://github.com/user-attachments/assets/67a313e6-191e-4eb9-ab2e-d6e753aa916c)
+![image](https://github.com/user-attachments/assets/1f033e21-3148-404f-a341-ce40963743db)
+![image](https://github.com/user-attachments/assets/a706842a-1435-4e72-8e77-c44f9f8423ef)
+![image](https://github.com/user-attachments/assets/9ee328aa-f3c9-404d-b303-1b695d7bffe2)
+
+#### Advantages of MongoDB
+![image](https://github.com/user-attachments/assets/99ea67b9-9278-4efb-b0cf-090c74c6d408)
+![image](https://github.com/user-attachments/assets/3b32e968-b5a9-466a-9861-2d398a3b4510)
+![image](https://github.com/user-attachments/assets/2595ac4e-380e-4087-90aa-cca6c543ffb5)
+![image](https://github.com/user-attachments/assets/4b36f36f-b000-4c8f-9b05-f1a56d267830)
+![image](https://github.com/user-attachments/assets/a2eab88f-1182-490d-9348-a3636b122980)
+![image](https://github.com/user-attachments/assets/e75235b0-01f1-4d40-a024-d39897371f69)
+
+#### Use Cases for MongoDB
+![image](https://github.com/user-attachments/assets/0e9ebe4c-cc21-4cbe-bfe7-f5d8d5ef47b1)
+
+#### Glossary: Basics of MongoDB
+![image](https://github.com/user-attachments/assets/5e45c6b8-7af9-4701-90b3-9ab829ca1e6d) *
+![image](https://github.com/user-attachments/assets/a9774d9f-12e9-47fd-884c-8588b55d97bb) *
+
 ### Getting Started with MongoDB
+#### CRUD Operations
+![image](https://github.com/user-attachments/assets/9a619f99-5580-4027-a7d8-0589f780bffb)
+![image](https://github.com/user-attachments/assets/3d2bb490-f90a-434f-be53-9335c71a502d)
+
+#### Indexes
+![image](https://github.com/user-attachments/assets/2398ef94-ea61-4463-b995-050348ede395)
+![image](https://github.com/user-attachments/assets/7e318d31-39a9-4b0f-8b41-4d6c8af925ae)
+![image](https://github.com/user-attachments/assets/4b99990c-74a4-4f11-9119-b46358304cff)
+
+![image](https://github.com/user-attachments/assets/82c96507-e1e4-42f2-a99f-229beb713203) * compound index
+
+#### Aggregation Framework
+![image](https://github.com/user-attachments/assets/50b5ddc2-4be5-451d-8deb-53ee8af7c7fc)
+![image](https://github.com/user-attachments/assets/e3ce1127-f4cd-4a86-b3ef-c43db4999e6d) *
+
+![image](https://github.com/user-attachments/assets/f84c76de-eba3-4b8b-945b-178606853e76)
+![image](https://github.com/user-attachments/assets/80611832-df64-4b88-9d76-1f4f7b5c7aee)
+
+![image](https://github.com/user-attachments/assets/33de96e3-0329-4a02-9f47-407a288bb31e) * aggregation stages
+
+![image](https://github.com/user-attachments/assets/9c8b182c-a61f-4b8d-a621-77a748273846)
+( sort in descending order by last name.)
+![image](https://github.com/user-attachments/assets/f62c4abb-e8fe-4abe-8cdb-855cb40df4a8)
+
+![image](https://github.com/user-attachments/assets/737290a1-7a50-44fb-809c-44e348ae6584)
+
+![Uploading image.png…]()
+
+
+
 
 
 ## M3 - Introducing Apache Cassandra: An Open-Source NoSQL Database
