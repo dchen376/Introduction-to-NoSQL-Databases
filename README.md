@@ -396,15 +396,38 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
 ![image](https://github.com/user-attachments/assets/92c51670-8894-49db-8ede-58a60bc23004)
 
 
-
-
-
-
-
-
-
-
 ### Working with Cassandra
+#### CQL Data Types
+![image](https://github.com/user-attachments/assets/59649f9d-f18e-411a-bc2a-7bc722366360)
+
+![image](https://github.com/user-attachments/assets/4a334088-6030-486f-91ef-8573fbc6ec3b) *
+![image](https://github.com/user-attachments/assets/94d385c8-23b0-4221-aea7-4353921b31c0)
+
+![image](https://github.com/user-attachments/assets/cc05c8ea-6a85-4222-bed6-170d7dcf6a7c)
+![image](https://github.com/user-attachments/assets/8a96d0cd-60ec-40de-83c3-f12da62e4b95)
+![image](https://github.com/user-attachments/assets/49d0ab46-90dc-49ce-a9e4-15ac62a72da0)
+![image](https://github.com/user-attachments/assets/0e21d915-082e-4102-b05f-2a97470ae95e)
+
+- UDTs *
+![image](https://github.com/user-attachments/assets/6c617a16-ef28-4424-a796-d607b1795413)
+![image](https://github.com/user-attachments/assets/d47a61fe-0099-435a-94eb-110463235890)
+
+![image](https://github.com/user-attachments/assets/d35144f7-861f-4bbc-91f4-224c19b9989b)
+
+#### Apache Cassandra Keyspace Operations
+![image](https://github.com/user-attachments/assets/06d1dae5-8af0-4713-9019-f7373135821a)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## M4 - Final Project: working with NoSQL Database
 
