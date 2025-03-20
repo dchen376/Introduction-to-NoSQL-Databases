@@ -255,6 +255,44 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
 
 ![image](https://github.com/user-attachments/assets/94caba71-cde9-46dc-bbc2-e2adf94c9827)
 
+#### Replication and Sharding
+![image](https://github.com/user-attachments/assets/47a447bd-cdaf-43de-aafd-29f19a1055fd)
+
+- replication
+![image](https://github.com/user-attachments/assets/ca913e05-398c-42d5-87a8-b7bc3b509c2b)
+![image](https://github.com/user-attachments/assets/afb9ee39-2367-4d8d-bb99-1106c988e398)
+![image](https://github.com/user-attachments/assets/5fabc05a-0669-4ba5-a8c9-7c752b2fd4e2) *
+![image](https://github.com/user-attachments/assets/bcdadae7-8788-44ce-8d97-79400f614a4f) * Oplog
+
+- sharding (horizontally scaling)
+  ![image](https://github.com/user-attachments/assets/510c13ba-0c49-4833-a2be-3696f2dd25e4)
+![image](https://github.com/user-attachments/assets/19a66b36-ddc1-4984-b30c-0865e3416988)
+
+- election *
+  ![image](https://github.com/user-attachments/assets/e2ad78ce-54fc-4a45-bac7-f8ba87829c5a)
+![image](https://github.com/user-attachments/assets/558b56e9-03e0-4333-ae37-56e7c3564c2b)
+![image](https://github.com/user-attachments/assets/4c138ad8-8292-478d-8df7-8162fb90369d)
+
+  ![image](https://github.com/user-attachments/assets/f7d6ce4b-da07-4f57-a9e0-25f7160719c0)
+
+#### Accessing MongoDB from Python
+![image](https://github.com/user-attachments/assets/ca7269fd-73a9-47be-bdf9-c2518167653f) *
+![image](https://github.com/user-attachments/assets/041c0e88-cbbd-4072-9fef-694d45f85add)
+
+![image](https://github.com/user-attachments/assets/5260af59-a742-49ae-ba6e-632b207f5892)
+![image](https://github.com/user-attachments/assets/d4ab6123-1604-4d21-9dd9-a1c3b2f5eea5)
+![image](https://github.com/user-attachments/assets/5f1dcf39-175f-46e4-95ee-bd67510ec0d1)
+
+![image](https://github.com/user-attachments/assets/4876f793-6843-40f4-ad3a-f2a232fce337) *dumps
+
+![image](https://github.com/user-attachments/assets/792fd7d5-3c60-4ad1-b579-49d85f485897)
+![image](https://github.com/user-attachments/assets/db8e740a-9c4b-4962-80ca-0cfad60e58d7)
+
+![image](https://github.com/user-attachments/assets/de791dce-2f15-4057-8d5b-143478758228)
+
+![image](https://github.com/user-attachments/assets/3db30314-c312-403d-99b8-c01b94624adc) * MongoClient
+
+
 
 
 
