@@ -416,6 +416,22 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
 
 #### Apache Cassandra Keyspace Operations
 ![image](https://github.com/user-attachments/assets/06d1dae5-8af0-4713-9019-f7373135821a)
+![image](https://github.com/user-attachments/assets/9db1d894-da38-429d-ae96-12b57cfe25e6)
+
+![image](https://github.com/user-attachments/assets/6444266f-448a-4b4f-95a3-a1502ac908b1)
+
+![image](https://github.com/user-attachments/assets/c93364d1-ce34-432a-9a32-976b4e4d37bb) *
+
+![image](https://github.com/user-attachments/assets/b9c4f0f2-dbe5-4c08-8550-8397750b7aa1)
+![image](https://github.com/user-attachments/assets/f1f6f57d-d702-4c6f-a5db-17f93094a581)
+
+![image](https://github.com/user-attachments/assets/e3cb4b7e-4f41-4a19-804c-2020ac724e38)
+![image](https://github.com/user-attachments/assets/35ee2ba5-e4bf-49a2-9b83-b58a11ec6ad8)
+
+![image](https://github.com/user-attachments/assets/47e876b0-b586-4561-a501-54cd6484934e)
+
+ #### Table Operations
+ ![image](https://github.com/user-attachments/assets/1255db02-c823-4e81-8c98-b5d355343bf1)
 
 
 
