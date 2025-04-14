@@ -433,9 +433,38 @@ https://www.coursera.org/learn/introduction-to-nosql-databases
  #### Table Operations
  ![image](https://github.com/user-attachments/assets/1255db02-c823-4e81-8c98-b5d355343bf1)
 
+ ![image](https://github.com/user-attachments/assets/784715ca-4589-40e8-9027-c1679a3c939e) * keyspace
+
+- create table
+![image](https://github.com/user-attachments/assets/4f582561-5d83-4b42-8ed4-18b268dddcf1)
+
+![image](https://github.com/user-attachments/assets/45753266-a74f-49d5-a4ed-63f8fced6673) * static table
+![image](https://github.com/user-attachments/assets/49b1abfc-1a02-40c2-bf42-2149724d98bc) * dynamic table 
+
+- describe tables
+  ![image](https://github.com/user-attachments/assets/d2b41b8c-1d52-47ca-bc04-fec44f7b1a5e)
+
+- alter table
+  ![image](https://github.com/user-attachments/assets/6b1f81ee-d065-418f-af1a-75b68e19d760)
+
+- delete table
+![image](https://github.com/user-attachments/assets/c8d19bba-1709-4aa4-b1b8-e2ca45777d57)
+
+![image](https://github.com/user-attachments/assets/addf6c2b-b2de-4e3b-b229-8ea7bdeef299)
 
 
+### CRUD Operations - Part 1
+ (inserts & writes)
 
+ ![image](https://github.com/user-attachments/assets/d87f19eb-41ef-4035-977b-a4e5d658b019)
+
+- write operations in Cassandra
+  ![image](https://github.com/user-attachments/assets/6cab16e0-4ecc-422a-9c98-758468699b13)
+![image](https://github.com/user-attachments/assets/d5209f83-2a51-4e2b-993c-d86c127e69ff) * consistency
+
+![image](https://github.com/user-attachments/assets/d1052975-2d48-427d-8fdb-ff009b78ef45) *memtable
+
+- insert operations
 
 
 
